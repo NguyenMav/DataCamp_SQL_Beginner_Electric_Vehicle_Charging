@@ -1,6 +1,6 @@
 ## Project: Analyzing Electric Vehicle Charging Habits (SQL Beginner)
 
-Linked to workbook: https://www.datacamp.com/datalab/w/fd3e95d3-5dd4-4715-b831-26be4cb3423d/edit
+Link to workbook: https://www.datacamp.com/datalab/w/fd3e95d3-5dd4-4715-b831-26be4cb3423d/edit
 
 As electronic vehicles (EVs) become more popular, there is an increasing need for access to charging stations, also known as ports. To that end, many modern apartment buildings have begun retrofitting their parking garages to include shared charging stations. A charging station is shared if it is accessible by anyone in the building.
 
